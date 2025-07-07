@@ -20,7 +20,7 @@ Google Cloud Platform (Cloud Build + Cloud Run)
 
 **🔹 1. Clonar o repositório**
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone [https://github.com/Fernanda-Damasceno2024/imersao-alura-devops/tree/main]
 
 cd SEU_REPOSITORIO
 
